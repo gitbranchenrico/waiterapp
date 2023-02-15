@@ -1,0 +1,334 @@
+[{
+  "_id": {
+    "$oid": "63eba0bc5886ac865e44ba59"
+  },
+  "name": "Pizza de Frango com Catupiry",
+  "description": "Deliciosa pizza de Frango com Catupiry",
+  "imagePath": "1676386492463-frango-catupiry.png",
+  "price": 40,
+  "ingredients": [
+    {
+      "name": "Mussarela",
+      "icon": "🧀",
+      "_id": {
+        "$oid": "63eba0bc5886ac865e44ba5a"
+      }
+    },
+    {
+      "name": "Catupiry",
+      "icon": "🧀",
+      "_id": {
+        "$oid": "63eba0bc5886ac865e44ba5b"
+      }
+    },
+    {
+      "name": "Frango",
+      "icon": "🐔",
+      "_id": {
+        "$oid": "63eba0bc5886ac865e44ba5c"
+      }
+    }
+  ],
+  "category": {
+    "$oid": "63eb99eb5886ac865e44ba50"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ecd37392c994ace30e62a9"
+  },
+  "name": "Pizza Marguerita",
+  "description": "Deliciosa pizza Marguerita",
+  "imagePath": "1676465011036-marguerita.png",
+  "price": 40,
+  "ingredients": [
+    {
+      "name": "Mussarela",
+      "icon": "🧀",
+      "_id": {
+        "$oid": "63ecd37392c994ace30e62aa"
+      }
+    },
+    {
+      "name": "Mussarela de Búfala",
+      "icon": "🧀",
+      "_id": {
+        "$oid": "63ecd37392c994ace30e62ab"
+      }
+    },
+    {
+      "name": "Manjericão",
+      "icon": "🍃",
+      "_id": {
+        "$oid": "63ecd37392c994ace30e62ac"
+      }
+    }
+  ],
+  "category": {
+    "$oid": "63eb99eb5886ac865e44ba50"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ecd3d892c994ace30e62ae"
+  },
+  "name": "Pizza de Quatro Queijos",
+  "description": "Deliciosa pizza de Quatro Queijos",
+  "imagePath": "1676465112309-quatro-queijos.png",
+  "price": 40,
+  "ingredients": [
+    {
+      "name": "Mussarela",
+      "icon": "🧀",
+      "_id": {
+        "$oid": "63ecd3d892c994ace30e62af"
+      }
+    },
+    {
+      "name": "Brie",
+      "icon": "🧀",
+      "_id": {
+        "$oid": "63ecd3d892c994ace30e62b0"
+      }
+    },
+    {
+      "name": "Gorgonzola",
+      "icon": "🧀",
+      "_id": {
+        "$oid": "63ecd3d892c994ace30e62b1"
+      }
+    },
+    {
+      "name": "Parnesão",
+      "icon": "🧀",
+      "_id": {
+        "$oid": "63ecd3d892c994ace30e62b2"
+      }
+    }
+  ],
+  "category": {
+    "$oid": "63eb99eb5886ac865e44ba50"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ecd5f092c994ace30e62b5"
+  },
+  "name": "Hamburger Especial",
+  "description": "Delicioso Hamburger com Molho Especial",
+  "imagePath": "1676465648723-burger-molho-especial.png",
+  "price": 32,
+  "ingredients": [
+    {
+      "name": "Pão com Gergelim",
+      "icon": "🍞",
+      "_id": {
+        "$oid": "63ecd5f092c994ace30e62b6"
+      }
+    },
+    {
+      "name": "2 Hamburger Angus 120g",
+      "icon": "🍖",
+      "_id": {
+        "$oid": "63ecd5f092c994ace30e62b7"
+      }
+    },
+    {
+      "name": "Picles",
+      "icon": "🥒",
+      "_id": {
+        "$oid": "63ecd5f092c994ace30e62b8"
+      }
+    },
+    {
+      "name": "Cheddar",
+      "icon": "🧀",
+      "_id": {
+        "$oid": "63ecd5f092c994ace30e62b9"
+      }
+    },
+    {
+      "name": "Cebola Roxa",
+      "icon": "🧅",
+      "_id": {
+        "$oid": "63ecd5f092c994ace30e62ba"
+      }
+    },
+    {
+      "name": "Alface",
+      "icon": "🥬",
+      "_id": {
+        "$oid": "63ecd5f092c994ace30e62bb"
+      }
+    },
+    {
+      "name": "Tomate",
+      "icon": "🍅",
+      "_id": {
+        "$oid": "63ecd5f092c994ace30e62bc"
+      }
+    },
+    {
+      "name": "Molho Especial da Casa",
+      "icon": "🫙",
+      "_id": {
+        "$oid": "63ecd5f092c994ace30e62bd"
+      }
+    }
+  ],
+  "category": {
+    "$oid": "63eb99d05886ac865e44ba4c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ecd6b192c994ace30e62bf"
+  },
+  "name": "Hamburger Egg",
+  "description": "Delicioso Hamburger Egg",
+  "imagePath": "1676465841569-egg.png",
+  "price": 32,
+  "ingredients": [
+    {
+      "name": "Pão Brioche",
+      "icon": "🍞",
+      "_id": {
+        "$oid": "63ecd6b192c994ace30e62c0"
+      }
+    },
+    {
+      "name": "1 Hamburger Angus 140g",
+      "icon": "🍖",
+      "_id": {
+        "$oid": "63ecd6b192c994ace30e62c1"
+      }
+    },
+    {
+      "name": "Presunto Defumado",
+      "icon": "🍖",
+      "_id": {
+        "$oid": "63ecd6b192c994ace30e62c2"
+      }
+    },
+    {
+      "name": "Ovo",
+      "icon": "🥚",
+      "_id": {
+        "$oid": "63ecd6b192c994ace30e62c3"
+      }
+    },
+    {
+      "name": "Queijo Prato",
+      "icon": "🧀",
+      "_id": {
+        "$oid": "63ecd6b192c994ace30e62c4"
+      }
+    },
+    {
+      "name": "Cebola Roxa",
+      "icon": "🧅",
+      "_id": {
+        "$oid": "63ecd6b192c994ace30e62c5"
+      }
+    }
+  ],
+  "category": {
+    "$oid": "63eb99d05886ac865e44ba4c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ecd78f92c994ace30e62c7"
+  },
+  "name": "Hamburger Chick",
+  "description": "Delicioso Hamburger Chick",
+  "imagePath": "1676466063101-chicken.png",
+  "price": 32,
+  "ingredients": [
+    {
+      "name": "Pão  com Gergelim",
+      "icon": "🍞",
+      "_id": {
+        "$oid": "63ecd78f92c994ace30e62c8"
+      }
+    },
+    {
+      "name": "2 Sobrecoxa de Frango Crispy 100g",
+      "icon": "🍖",
+      "_id": {
+        "$oid": "63ecd78f92c994ace30e62c9"
+      }
+    },
+    {
+      "name": "Queijo Prato",
+      "icon": "🧀",
+      "_id": {
+        "$oid": "63ecd78f92c994ace30e62ca"
+      }
+    },
+    {
+      "name": "Cebola Roxa",
+      "icon": "🧅",
+      "_id": {
+        "$oid": "63ecd78f92c994ace30e62cb"
+      }
+    },
+    {
+      "name": "Alface",
+      "icon": "🥬",
+      "_id": {
+        "$oid": "63ecd78f92c994ace30e62cc"
+      }
+    },
+    {
+      "name": "Tomate",
+      "icon": "🍅",
+      "_id": {
+        "$oid": "63ecd78f92c994ace30e62cd"
+      }
+    }
+  ],
+  "category": {
+    "$oid": "63eb99d05886ac865e44ba4c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ecd83f92c994ace30e62ef"
+  },
+  "name": "Chopp",
+  "description": "Chopp Geladinho",
+  "imagePath": "1676466239434-cerveja.png",
+  "price": 12,
+  "ingredients": [],
+  "category": {
+    "$oid": "63eb99de5886ac865e44ba4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ecd85d92c994ace30e62f1"
+  },
+  "name": "Suco de Laranja",
+  "description": "Suco Geladinho",
+  "imagePath": "1676466269237-suco-de-laranja.png",
+  "price": 7,
+  "ingredients": [],
+  "category": {
+    "$oid": "63eb99de5886ac865e44ba4e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ecd89692c994ace30e62f4"
+  },
+  "name": "Coca-cola",
+  "description": "Coca-cola Geladinha",
+  "imagePath": "1676466326032-coca-cola.png",
+  "price": 6,
+  "ingredients": [],
+  "category": {
+    "$oid": "63eb99de5886ac865e44ba4e"
+  },
+  "__v": 0
+}]

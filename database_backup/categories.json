@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "63eb99ba5886ac865e44ba4a"
+  },
+  "name": "Promoções",
+  "icon": "🏷️",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63eb99d05886ac865e44ba4c"
+  },
+  "name": "Lanches",
+  "icon": "🍔",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63eb99de5886ac865e44ba4e"
+  },
+  "name": "Bebidas",
+  "icon": "🍻",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63eb99eb5886ac865e44ba50"
+  },
+  "name": "Pizza",
+  "icon": "🍕",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63eb9f4f5886ac865e44ba53"
+  },
+  "name": "HOT",
+  "icon": "🔥",
+  "__v": 0
+}]
